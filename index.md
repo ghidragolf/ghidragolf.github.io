@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About
-The Office of the Under Secretary of Defense for Research and Engineering ([OUSD R&E](https://www.cto.mil/)) inspired by DARPA's [Cyber Grand Challenge](https://www.darpa.mil/program/cyber-grand-challenge) is kicking off a series of challenges to to tackle some of the hardest shared challenges public, private and academic sectors face via  "micro-challenges". Micro-challenges are being stood up at a variety of conferences including [ShmooCon](https://shmoocon.org/) and BSides conferences. The goals of these "micro-challenges" are to produce a community contributed set of forensic tools or unique data sets that can be transitioned back into one's day job, academic research, etc...
+The Office of the Under Secretary of Defense for Research and Engineering ([OUSD R&E](https://www.cto.mil/)) inspired by DARPA's [Cyber Grand Challenge](https://www.darpa.mil/program/cyber-grand-challenge) is kicking off a series of challenges to tackle some of the hardest shared challenges public, private and academic sectors face via  "micro-challenges". Micro-challenges are being stood up at a variety of conferences including [ShmooCon](https://shmoocon.org/) and BSides conferences. The goals of these "micro-challenges" are to produce a community contributed set of forensic tools or unique data sets that can be transitioned back into one's day job, academic research, etc...
 
 The first of these events for 2023 is "Ghidra Golf", and will be hosted at ShmooCon, January 20th through January 23rd.
 As we get closer to ShmooCon, a link to join the Discord server will be placed on this website.
@@ -16,7 +16,7 @@ Selected contestant submitted Ghidra Scripts will be compiled into a centralized
 Attribution will be given to the author via the "@author" javadoc. 
 
 ## What types of challenges are we solving?
-Ghidra Golf's goal is to cover a wide spectrum of Reverse Engineering challenges to be welcoming to newcomers and experienced CTF players alike. Challenge categories will includes vulnerability research, malware analysis and other DFIR focused challenges.
+Ghidra Golf's goal is to cover a wide spectrum of Reverse Engineering challenges to be welcoming to newcomers and experienced CTF players alike. Challenge categories will include vulnerability research, malware analysis and other DFIR focused challenges.
 
 ## Pro Ghidra Golf Association - Winter Tour 2023 Schedule
 * Coming Soon!
