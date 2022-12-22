@@ -44,4 +44,3 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 
 * Q) I have feedback, how can I submit it?
 * A) At the end of the CTF, a link to  a survey will be posted in the Discord channel.
-other concerns/question/comments/inquires can be sent to "ghidragolf AT gmail [dot] com"
