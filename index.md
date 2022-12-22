@@ -9,14 +9,14 @@ The first micro-challenge for 2023 is "Ghidra Golf". Ghidra Golf will be hosted 
 As we get closer to ShmooCon, a link to join the Discord server will be placed on this website.
 
 # Ghidra Golf Overview
-Ghidra Golf is Reverse Engineering/Forensics Capture The Flag event with focus on Ghidra Script development.
-The contestant's goal in addition to solving traditional Reverse Engineering challenges is to develop Ghidra Scripts to identify, parse, decrypt/decode or otherwise accomplish a specific Reverse Engineering task. Contestants are provided with a binary to download, reverse engineer and to test their code against, before submitting their Ghidra Script for evaluation. 
+Ghidra Golf is reverse engineering/forensics Capture The Flag event with focus on Ghidra Script development.
+The contestant's goal in addition to solving traditional reverse engineering challenges is to develop Ghidra Scripts to identify, parse, decrypt/decode or otherwise accomplish a specific reverse engineering task. Contestants are provided with a binary to download, reverse engineer and to test their code against, before submitting their Ghidra Script for evaluation. 
 
 Selected contestant submitted Ghidra Scripts will be compiled into a centralized [Github Repository](https://github.com/ghidragolf/ghidra_scripts) under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 Attribution will be given to the author via the "@author" javadoc. 
 
 ## What types of challenges are we solving?
-Ghidra Golf's goal is to cover a wide spectrum of Reverse Engineering challenges to be welcoming to newcomers and experienced CTF players alike. Challenge categories will include vulnerability research, malware analysis and other DFIR focused challenges.
+Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges to be welcoming to newcomers and experienced CTF players alike. Challenge categories will include vulnerability research, malware analysis and other DFIR focused challenges.
 
 ## Pro Ghidra Golf Association - Winter Tour 2023 Schedule
 * Coming Soon!
