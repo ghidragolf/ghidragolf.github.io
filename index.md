@@ -25,10 +25,9 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 1. No attacking of the competition infrastructure.
 2. Competitors must be physically at ShmooCon in order to be prize eligible.
 3. Participants must comply to the Code of Conduct available upon joining the Discord server.
-4. Do not attack the competition infrastructure.
-5. Harassment of any kind will not be tolerated.
-6. Treat others with respect and dignity.
-7. Do not use offensive language or language with the intent of offending others.
+4. Harassment of any kind will not be tolerated.
+5. Treat others with respect and dignity.
+6. Do not use offensive language or language with the intent of offending others.
 
 # FAQ
 * Q) I have a question, where can I ask?
