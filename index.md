@@ -19,9 +19,9 @@ Attribution will be given to the author via the "@author" javadoc.
 Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges to be welcoming to newcomers and experienced CTF players alike. Challenge categories will include vulnerability research, malware analysis and other DFIR focused challenges.
 
 ## Pro Ghidra Golf Association - Winter Tour 2023 Schedule
-* Friday: 10AM --> 6PM
-* Saturday: 10AM --> 6PM
-* Sunday: 10AM --> 2PM
+* Friday: 10AM --> 6PM (EST)
+* Saturday: 10AM --> 6PM (EST)
+* Sunday: 10AM --> 2PM (EST)
 
 ## Competition Rules & Code of Conduct
 1. No attacking of the competition infrastructure.
