@@ -5,8 +5,8 @@ layout: default
 # About
 The Office of the Under Secretary of Defense for Research and Engineering ([OUSD R&E](https://www.cto.mil/)) inspired by DARPA's [Cyber Grand Challenge](https://www.darpa.mil/program/cyber-grand-challenge) is kicking off a series of challenges to tackle some of the hardest shared challenges public, private and academic sectors face via  "micro-challenges". The goals of these "micro-challenges" are to produce a community contributed set of forensic tools or unique data sets that can be transitioned back into one's day job, academic research, etc...
 
-The first micro-challenge for 2023 is "Ghidra Golf". Ghidra Golf will be hosted at ShmooCon, January 20th through January 23rd.
-As we get closer to ShmooCon, a link to join the Discord server will be placed on this website.
+The first of these events for 2023 is “Ghidra Golf”, and will be hosted at ShmooCon, January 20th through January 23rd.
+Join our [Discord server](https://discord.gg/aESDuHVNZr) to get help, make a team, and participate in the competition.
 
 # Ghidra Golf Overview
 Ghidra Golf is reverse engineering/forensics Capture The Flag event with focus on Ghidra Script development.
@@ -19,7 +19,9 @@ Attribution will be given to the author via the "@author" javadoc.
 Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges to be welcoming to newcomers and experienced CTF players alike. Challenge categories will include vulnerability research, malware analysis and other DFIR focused challenges.
 
 ## Pro Ghidra Golf Association - Winter Tour 2023 Schedule
-* Coming Soon!
+* Friday: 10AM --> 6PM
+* Saturday: 10AM --> 6PM
+* Sunday: 10AM --> 2PM
 
 ## Competition Rules & Code of Conduct
 1. No attacking of the competition infrastructure.
@@ -31,7 +33,7 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 
 # FAQ
 * Q) I have a question, where can I ask?
-* A) Go to our Discord, available here: (link pending)
+* A) Go to our [Discord server](https://discord.gg/aESDuHVNZr).
 
 * Q) Where can I learn about how to use Ghidra?
 * A) The official Ghidra documentation [here](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass).
