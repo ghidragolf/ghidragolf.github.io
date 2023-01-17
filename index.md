@@ -25,6 +25,8 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 * Saturday: 10AM --> 8PM (EST)
 * Sunday: 10AM --> 2PM (EST)
 
+(*time subject to change*)
+
 ## Competition Rules & Code of Conduct
 1. No attacking of the competition infrastructure.
 2. Competitors must be physically at ShmooCon in order to be prize eligible.
