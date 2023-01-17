@@ -21,8 +21,8 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 ## Pro Ghidra Golf Association - Winter Tour 2023 Schedule
 [Ghidra Version 10.2.2](https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.2.2_build) is recommended for the competition.
 
-* Friday: 10AM --> 6PM (EST)
-* Saturday: 10AM --> 6PM (EST)
+* Friday: 1PM --> 8PM (EST)
+* Saturday: 10AM --> 8PM (EST)
 * Sunday: 10AM --> 2PM (EST)
 
 ## Competition Rules & Code of Conduct
