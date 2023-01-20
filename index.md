@@ -8,6 +8,7 @@ The Office of the Under Secretary of Defense for Research and Engineering ([OUSD
 The first of these events for 2023 is “Ghidra Golf”, and will be hosted at ShmooCon, January 20th through January 23rd.
 Join our [Discord server](https://discord.gg/aESDuHVNZr) to get help, make a team, and participate in the competition.
 
+
 # Ghidra Golf Overview
 Ghidra Golf is reverse engineering/forensics Capture The Flag event with focus on Ghidra Script development.
 The contestant's goal in addition to solving traditional reverse engineering challenges is to develop Ghidra Scripts to identify, parse, decrypt/decode or otherwise accomplish a specific reverse engineering task. Contestants are provided with a binary to download, reverse engineer and to test their code against, before submitting their Ghidra Script for evaluation. 
@@ -26,6 +27,8 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 * Sunday: 10AM --> 2PM (EST)
 
 (*time subject to change*)
+
+* [Register here!](https://ctfd.ghidra.golf)
 
 ## Competition Rules & Code of Conduct
 1. No attacking of the competition infrastructure.
