@@ -24,7 +24,7 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 
 * Friday: 1PM --> 8PM (EST)
 * Saturday: 10AM --> 8PM (EST)
-* Sunday: 10AM --> 2PM (EST)
+* Sunday: 10AM --> 1PM (EST)
 
 (*time subject to change*)
 
