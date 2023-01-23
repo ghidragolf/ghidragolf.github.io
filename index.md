@@ -5,9 +5,9 @@ layout: default
 # About
 The Office of the Under Secretary of Defense for Research and Engineering ([OUSD R&E](https://www.cto.mil/)) inspired by DARPA's [Cyber Grand Challenge](https://www.darpa.mil/program/cyber-grand-challenge) is kicking off a series of challenges to tackle some of the hardest shared challenges public, private and academic sectors face via  "micro-challenges". The goals of these "micro-challenges" are to produce a community contributed set of forensic tools or unique data sets that can be transitioned back into one's day job, academic research, etc...
 
-The first of these events for 2023 is “Ghidra Golf”, and will be hosted at ShmooCon, January 20th through January 23rd.
-Join our [Discord server](https://discord.gg/aESDuHVNZr) to get help, make a team, and participate in the competition.
+The first of these events for 2023 is “Ghidra Golf”, and was hosted at ShmooCon, on January 20th through January 23rd. Join our [Discord server](https://discord.gg/aESDuHVNZr) to get help, make a team, and participate in the competition.
 
+The competitor contributed Ghidra Scripts, are available at our [ghidra_script repo](https://github.com/ghidragolf/ghidra_scripts).
 
 # Ghidra Golf Overview
 Ghidra Golf is reverse engineering/forensics Capture The Flag event with focus on Ghidra Script development.
@@ -28,7 +28,6 @@ Ghidra Golf's goal is to cover a wide spectrum of reverse engineering challenges
 
 (*time subject to change*)
 
-* [Register here!](https://ctfd.ghidra.golf)
 
 ## Competition Rules & Code of Conduct
 1. No attacking of the competition infrastructure.
